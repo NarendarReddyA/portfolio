@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Narendar Reddy Appagari',
     description:
-      'Narendar is a software engineer who specializes in building exceptional digital experiences.',
+      'Narendar is a software engineer with 9 years of experience building enterprise solutions with .NET, Angular, Azure, and AI-assisted development.',
     siteUrl: 'https://narendar.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ImNarendarReddy',

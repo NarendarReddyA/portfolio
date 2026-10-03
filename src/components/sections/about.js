@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Angular', 'TypeScript', 'C#', '.Net', 'Azure', 'SQL', 'Entity Framework', 'SQL'];
+  const skills = [
+    'C#',
+    '.NET Core / ASP.NET Core',
+    'Angular',
+    'TypeScript',
+    'Entity Framework Core',
+    'SQL Server',
+    'Microsoft Azure',
+    'Claude Code & Claude API',
+    'Agentic AI Workflows',
+    'Custom MCP Servers',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,14 +146,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hi! My name is Narendar, and I love building robust applications that enhance user experiences and solve real-world problems. 
-            My journey into web development began during my academic years, exploring how technology can transform ideas into impactful solutions.
+              Hi! My name is Narendar, and I love building robust applications that enhance user
+              experiences and solve real-world problems. My journey into web development began
+              during my academic years, exploring how technology can transform ideas into impactful
+              solutions.
             </p>
 
             <p>
-            Fast forward to today, I have over 6.7 years of experience creating enterprise solutions using .NET, Angular, and Azure. 
-            I’ve had the privilege of working at <a href="https://us.mullenlowe.com/">Trianz</a>,{' '} where I lead technical efforts to build secure, scalable, and user-friendly applications, 
-            and at <a href="https://starry.com/">Launchship It&Media</a>,{' '} where I honed my skills in crafting dynamic user management systems and innovative communication modules.
+              Fast forward to today, I have 9 years of experience creating enterprise solutions
+              using .NET, Angular, and Azure. I’m currently a Developer III at{' '}
+              <a href="https://www.realpage.com/">RealPage</a>, building property management
+              software for the real estate industry. Before that, I was a Technical Lead at{' '}
+              <a href="https://www.trianz.com/">Trianz</a>, where I built secure, scalable portals
+              for Mastercard, and at <a href="https://www.launchship.com/">Launchship IT&Media</a>,{' '}
+              where I honed my skills in crafting dynamic user management systems and innovative
+              communication modules.
               {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -154,8 +172,10 @@ const About = () => {
             </p>
 
             <p>
-            Currently, I focus on building secure, efficient web applications using C#, Angular, RESTful APIs, and Azure services. 
-            I’m passionate about crafting seamless digital experiences and exploring DevOps, emerging tech trends, and innovative frameworks to push the boundaries of web development.
+              These days I focus on building secure, efficient web applications using C#, Angular,
+              RESTful APIs, and Azure services, and on AI-assisted development with Claude: building
+              agentic workflows, custom Claude Skills, and MCP servers that connect AI agents to
+              internal tools and data. I’m also a Microsoft Certified Azure Fundamentals (AZ-900).
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

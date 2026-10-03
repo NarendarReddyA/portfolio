@@ -3,11 +3,11 @@ date: '2021-04-05'
 title: 'Technical Lead'
 company: 'Trianz'
 location: 'Hyderabad, India'
-range: 'April 2021 - Present'
+range: 'April 2021 - March 2025'
 url: 'https://www.trianz.com/'
 ---
 
-- Delivered high-quality, secure production code for multiple projects, enhancing user experiences across diverse client portals and stakeholders.
-- Led the development and architecture of technical solutions, including integrating Microsoft Azure ADB2C for user management and Azure Single Sign-On, fulfilling critical business requirements
-- Collaborated with cross-functional teams, including designers, project managers, and stakeholders, to translate creative concepts and business needs into functional production applications.
-- Contributed to the engineering team's growth and efficiency by optimizing deployment pipelines, implementing audit logging middleware, and mentoring junior developers in DevOps and coding practices.
+- Led User Management implementation using Microsoft Azure AD and built Single Sign-On (SSO) for managing child portals in a Mastercard Admin Portal
+- Implemented JOSE data encryption to meet security compliance requirements
+- Developed custom reports for Mastercard's Compass Data Warehouse, integrating Tableau authentication and dashboard embedding
+- Implemented Azure Web Jobs for automated tasks, and managed build and release pipelines and audit logging

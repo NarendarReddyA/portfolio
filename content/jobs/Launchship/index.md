@@ -1,9 +1,9 @@
 ---
 date: '2017-09-15'
-title: 'Junior Software Engineer'
+title: 'Junior Software Developer'
 company: 'Launchship IT&Media'
 location: 'Hyderabad, India'
-range: 'Sep - Aug 2020'
+range: 'September 2017 - October 2020'
 url: 'https://www.launchship.com/'
 ---
 

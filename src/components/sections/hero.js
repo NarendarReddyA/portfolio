@@ -65,8 +65,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I’m a software engineer specializing in creating scalable, user-friendly digital experiences. With 6.7 years of experience, I focus on developing enterprise applications using .NET, C#, Angular, and Azure services. Currently, I’m passionate about crafting accessible, efficient, and human-centered products that make an impact.
-      {/* Currently, I’m focused on building accessible, human-centered products
+        I’m a software engineer with 9 years of experience building enterprise applications using
+        .NET, C#, Angular, and Azure. Currently, I’m building real estate SaaS products at{' '}
+        <a href="https://www.realpage.com/" target="_blank" rel="noreferrer">
+          RealPage
+        </a>
+        , with a focus on AI-assisted development using Claude, agentic workflows, and custom MCP
+        servers.
+        {/* Currently, I’m focused on building accessible, human-centered products
         at{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
@@ -76,10 +82,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      href="/resume.pdf" className="email-link"
-      target="_blank"
-      rel="noreferrer">
+    <a href="/resume.pdf" className="email-link" target="_blank" rel="noreferrer">
       Check out my resume!
     </a>
   );

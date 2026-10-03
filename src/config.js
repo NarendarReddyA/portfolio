@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'narendar.reddy003@gmail.com',
+  email: 'narendarreddyapps@gmail.com',
 
   socialMedia: [
     {
@@ -17,7 +17,7 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/narendar-reddy-appagari-854199a9/',
-    }
+    },
   ],
 
   navLinks: [
